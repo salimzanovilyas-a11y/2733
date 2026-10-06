@@ -1,0 +1,4 @@
+countryinfo==0.1.2
+modeltranslation==0.25
+psycopg2==2.9.13
+python-dotenv==1.2.3
